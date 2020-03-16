@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   anything. This description should appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/PHdemo" # the subpath of your site, e.g. /blog PH: use the website folder name
-url: "localhost:4000" # the base hostname & protocol for your site PH: use the localhost
+url: "" # the base hostname & protocol for your site PH: use the localhost
 twitter_username: tweettweet
 github_username:  ancu6239
 
