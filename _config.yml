@@ -21,6 +21,7 @@
 title: PH demo tutorial
 email: awesomeA@example.com
 description: >- # this means to ignore newlines until "baseurl:"
+  Making another change after published to see what happens!!!!!
   This description was written in atom. While inside the project directory I
   used atom . to open the _config.yml. Hopefully carriage returns don't break
   anything. This description should appear in your document head meta (for
