@@ -4,6 +4,8 @@ title: About this site
 permalink: /about/
 ---
 
+Try making a change in markdown file on github.com. What happens when commit?
+
 Here's a bit of added text. What does it do? Try playing with markdown formatting...
 
 looked up here: https://kramdown.gettalong.org/quickref.html
