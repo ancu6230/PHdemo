@@ -21,6 +21,13 @@
 title: PH demo tutorial
 email: awesomeA@example.com
 description: >- # this means to ignore newlines until "baseurl:"
+  This paragraph here was added locally via ubuntu/atom after the webpage was
+  put up online and I could access it at ancu6230.github.io/PHdemo. I had
+  problems making the first commit in it's entirety- _site got left behind
+  for some reason. Here I'm seeing if it's all happy now. Going to run:
+    bundle exec jekyll serve  here and then see if I can commit the changes.
+
+
   Making another change after published to see what happens!!!!!
   This description was written in atom. While inside the project directory I
   used atom . to open the _config.yml. Hopefully carriage returns don't break
